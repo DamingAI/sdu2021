@@ -12,6 +12,41 @@ python环境配置：
 1、python运行环境 （python3.6  anaconda  IDE中的python  虚拟环境）
 https://www.python.org/downloads/
 安装：all users      add to PATH
+验证：python -V    
+验证：包(第三方库、工具)管理工具pip 
+	pip -V
+
 2、开发环境vscode
 https://code.visualstudio.com/
+（vscode pycharm）
+命令运行
+
+3.安装jupyter
+cmd命令行：pip install jupyter
+运行  jupyter notebook
+
+python语言
+语言结构：
+	目录结构、模块结构
+	源代码格式  .py
+	文件结构
+	语法结构（量，字，语句，段）
+编程思想：
+	代码的组织形式
+标准库：time 正则 网络编程
+第三方库（pip）：sklearn opencv pytorch
+# 安装QT
+pip install pyqt5     指定仓库（指定大厂镜像地址）-i   
+pip install pyqt5-tools   (windows)      (mac linux 安装qt-creator 邮箱注册下载) designer交互编程工具
+
+例子
+pip install pyqt5 -i https://mirrors.aliyun.com/pypi/simple  --default-timeout=100
+
+第三方库：
+工具
+python/script   比如：pyqt5designer.exe
+库文件
+python/lib/sitepackages/
+
+Git安装
 	
