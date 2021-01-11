@@ -34,6 +34,7 @@ python语言
 编程思想：
 	代码的组织形式
 标准库：time 正则 网络编程
+
 第三方库（pip）：sklearn opencv pytorch
 # 安装QT
 pip install pyqt5     指定仓库（指定大厂镜像地址）-i   
@@ -49,4 +50,6 @@ python/script   比如：pyqt5designer.exe
 python/lib/sitepackages/
 
 Git安装
+
+任务：环境配置 python语法的理解
 	
