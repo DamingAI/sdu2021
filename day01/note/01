@@ -52,4 +52,23 @@ python/lib/sitepackages/
 Git安装
 
 任务：环境配置 python语法的理解
-	
+
+安装依赖库 
+  opencv   pip install opencv-python  
+  pytorch  pip install torch===1.7.1+cu110 torchvision===0.8.2+cu110 torchaudio===0.7.2 -f https://download.pytorch.org/whl/torch_stable.html 
+  2个G     根据路径下载    复制路径  迅雷下载   pip install 路径/////下载的文件
+
+
+
+总结：
+1、python环境配置和依赖模块的安装
+2、PyQt5安装
+3、工程项目结构搭建
+	qt搭建简单界面并显示
+4、了解git常用指令和使用场景
+
+
+
+
+
+ 
