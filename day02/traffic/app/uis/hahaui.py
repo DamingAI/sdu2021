@@ -39,6 +39,7 @@ class Ui_Dialog(object):
         self.label_2.setObjectName("label_2")
 
         self.retranslateUi(Dialog)
+        self.btn_big.clicked.connect(Dialog.big)
         QtCore.QMetaObject.connectSlotsByName(Dialog)
 
     def retranslateUi(self, Dialog):
