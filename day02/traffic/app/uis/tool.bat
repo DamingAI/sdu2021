@@ -1,0 +1,1 @@
+@pyuic5 login.ui -o loginui.py
